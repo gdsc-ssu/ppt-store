@@ -9,6 +9,9 @@
 6. 고딩의 스타트업 적응기 (길상혁).pdf [:memo:](https://github.com/gdsc-ssu/ppt-store/raw/main/ssu%EB%AA%B0%EC%84%B8%EB%AF%B8%EB%82%98/6.%20%EA%B3%A0%EB%94%A9%EC%9D%98%20%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%20%EC%A0%81%EC%9D%91%EA%B8%B0%20(%EA%B8%B8%EC%83%81%ED%98%81).pdf)
 7. K-백엔드 (나상우).pdf [:memo:](https://github.com/gdsc-ssu/ppt-store/raw/main/ssu%EB%AA%B0%EC%84%B8%EB%AF%B8%EB%82%98/7.%20K-%EB%B0%B1%EC%97%94%EB%93%9C%20(%EB%82%98%EC%83%81%EC%9A%B0).pdf)
 8. 인덱스를 모르고 쿼리를 짠다고 (우수연).pdf [:memo:](https://github.com/gdsc-ssu/ppt-store/raw/main/ssu%EB%AA%B0%EC%84%B8%EB%AF%B8%EB%82%98/8.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC%20%EB%AA%A8%EB%A5%B4%EA%B3%A0%20%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%A7%A0%EB%8B%A4%EA%B3%A0%20(%EC%9A%B0%EC%88%98%EC%97%B0).pdf)
+9. 야 너두 성공할 수 있어 (김태현).pdf [:memo:](https://github.com/gdsc-ssu/ppt-store/raw/main/ssu%EB%AA%B0%EC%84%B8%EB%AF%B8%EB%82%98/9.%20%EC%95%BC%20%EB%84%88%EB%91%90%20%EC%84%B1%EA%B3%B5%ED%95%A0%20%EC%88%98%20%EC%9E%88%EC%96%B4%20(%EA%B9%80%ED%83%9C%ED%98%84).pdf)
+10. 게임개발스토리 (이재혁).pdf [:memo:](https://github.com/gdsc-ssu/ppt-store/raw/main/ssu%EB%AA%B0%EC%84%B8%EB%AF%B8%EB%82%98/10.%20%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C%EC%8A%A4%ED%86%A0%EB%A6%AC%20(%EC%9D%B4%EC%9E%AC%ED%98%81).pdf)
+11. 둘 중에 하나만 골라, 상속 or 컴포지션 (장서연).pdf [:memo:](https://github.com/gdsc-ssu/ppt-store/raw/main/ssu%EB%AA%B0%EC%84%B8%EB%AF%B8%EB%82%98/11.%20%EB%91%98%20%EC%A4%91%EC%97%90%20%ED%95%98%EB%82%98%EB%A7%8C%20%EA%B3%A8%EB%9D%BC%2C%20%EC%83%81%EC%86%8D%20or%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%20(%EC%9E%A5%EC%84%9C%EC%97%B0).pdf)
 
 ## 선배초청세미나
 1. 김종찬_캠퍼스 개발 커뮤니티 활용하기 101.pdf [:memo:](https://github.com/gdsc-ssu/ppt-store/raw/main/%EC%84%A0%EB%B0%B0%EC%B4%88%EC%B2%AD%EC%84%B8%EB%AF%B8%EB%82%98/1.%20%EA%B9%80%EC%A2%85%EC%B0%AC_%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%EA%B0%9C%EB%B0%9C%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0%20101.pdf)
